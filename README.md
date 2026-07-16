@@ -32,7 +32,7 @@ O foco é ser 100% responsivo e moderno.
 
 ## 📸 Preview
 ![Preview do Projeto]
-Adicione uma print do seu site aqui depois
+<img src="https://github.com/alexsandrofelix2607-svg/multi-category-store-landing/blob/master/assets/monitor.jpeg?raw=true" />
 
 ## 👨‍💻 Autor
 *Alexsandro Felix*
